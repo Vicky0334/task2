@@ -1,0 +1,41 @@
+body{
+    background-color: #FF7F50;
+}
+.head{
+    color: blue;
+    
+}
+#bglime{
+    background-color:#72FF72;
+}
+p{
+    color: white;
+}
+#para{
+    color: green;
+
+}
+h3{
+    color: black;
+}
+ul li{
+    color: white;
+}
+ul li a:first-of-type {
+    background-color: yellow; 
+}
+
+ul li:nth-of-type(2) a {
+    background-color: blue;
+}
+li {
+    color: black; 
+}
+
+ol li:nth-child(2) {
+    color: blue;
+}
+
+ol li:nth-child(3) {
+    color: red;
+}
